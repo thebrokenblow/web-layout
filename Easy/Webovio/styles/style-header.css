@@ -56,12 +56,16 @@
   line-height: 26px;
 }
 
-.text-4 {
-  display: block;
+.text-4{
   margin-top: 45px;
   color: #FFD723;
+  text-decoration: underline
+}
+
+.text-4-link {
+  color: #FFD723; 
   font-family: Poppins;
   font-size: 16px;
   font-weight: 700;
-  text-decoration-line: underline;
+  text-decoration: none" 
 }
