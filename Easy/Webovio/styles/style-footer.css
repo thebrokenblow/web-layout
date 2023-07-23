@@ -1,0 +1,31 @@
+.footer {
+  background-image: url(../images/Bitmap.png);
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #50583b;
+}
+
+.footer-container {
+  padding-top: 310px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.footer-header {
+  color: #b6c197;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 40px;
+}
+
+.footer-content {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 40px;
+}
