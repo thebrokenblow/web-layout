@@ -1,0 +1,29 @@
+.nav-bar-link {
+  text-decoration: none;
+  color: #4c5866;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.nav-bar-item:hover {
+  transition: 1s;
+  color: #7875fe;
+}
+
+.nav-bar-container {
+  padding-top: 29px;
+  padding-bottom: 29px;
+}
+
+.logo-nav {
+  padding-left: 165px;
+}
+
+.link-container {
+  padding-right: 165px;
+}
+
+.nav-bar {
+  border-bottom: 1px solid #ddd;
+}
